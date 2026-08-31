@@ -3,9 +3,9 @@
   <!-- Dynamic Waving Header Banner (Vivid Multi-Color Gradient Wave Engine) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:2d006b,25:0f172a,50:0052cc,75:00b4d8,100:00f5a0&height=230&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Security%20%E2%80%A2%20Analysis%20%E2%80%A2%20Automation&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Banner" />
 
-  <!-- Animated Typing Tagline -->
+  <!-- Animated Typing Tagline (Reverted to Electric Neon Cyan) -->
   <a href="https://github.com/Sid214">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1500&color=00F5A0&center=true&vCenter=true&width=620&lines=Security+%E2%80%A2+Analysis+%E2%80%A2+Automation;Vulnerability+Assessment+%26+Reconnaissance;Network+Analysis+%26+Security+Frameworks;Continuous+Investigation+%26+System+Defense" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Security+%E2%80%A2+Analysis+%E2%80%A2+Automation;Vulnerability+Assessment+%26+Reconnaissance;Network+Analysis+%26+Security+Frameworks;Continuous+Investigation+%26+System+Defense" alt="Typing Tagline" />
   </a>
 
 </div>
@@ -29,16 +29,9 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast focused on network ar
   <li>🛡️ <b>Core Focus:</b> Network Packet Analysis, Vulnerability Research & Security Posture Assessment</li>
   <li>🔍 <b>Methodology:</b> Traffic inspection, surface mapping, and structured ethical hacking workflows</li>
   <li>🌐 <b>Environments:</b> Working across Kali Linux, Ubuntu, Windows 11, and macOS</li>
+  <li>⚡ <b>Core Principle:</b> <i>"Security is not a product, but a continuous process."</i></li>
 </ul>
 
-</div>
-
-<br/>
-
-### 💡 Core Principles
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=00F5A0&center=true&vCenter=true&width=750&lines=%22Security+is+not+a+product%2C+but+a+continuous+process.%22;%22Visibility+without+control+is+just+a+spectator+sport.%22;%22Defenders+think+in+lists.+Attackers+think+in+graphs.%22;%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22;%22Understand+how+it+works%2C+find+where+it+breaks%2C+build+it+stronger.%22;%22Privacy+is+a+fundamental+right%2C+not+an+afterthought.%22;%22Hardware+is+easy+to+break%2C+software+is+easy+to+fix%2C+firmware+is+both.%22;%22Encryption+works.+Properly+implemented+crypto+is+what+we+rely+on.%22;%22In+theory+there+is+no+difference+between+theory+and+practice.%22;%22There+are+only+two+types+of+systems%3A+those+audited%2C+and+those+to+be+audited.%22" alt="Core Principles Typing Quotes" />
 </div>
 
 <br/>
