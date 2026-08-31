@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0a2540,100:0066cc&height=240&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Enthusiast%20%7C%20Network%20Analysis%20%7C%20Scripting&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Header" />
+  <!-- Dynamic Waving Header Banner (Ocean Neon Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,34,42&height=230&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Enthusiast%20%E2%80%A2%20Network%20Analysis%20%E2%80%A2%20Scripting&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Banner" />
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/Sid214">
@@ -9,11 +9,6 @@
   </a>
 
 </div>
-
-<br/>
-
-<!-- Modern Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -36,95 +31,47 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 <br/>
 
-<!-- Modern Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
-
-<br/>
-
-### 🛡️ Cybersecurity & Reconnaissance
+### 🛡️ Cybersecurity & Core Systems
 
 <div align="center">
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40" height="40" alt="Wireshark" title="Wireshark" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/metasploit/1262AF" width="40" height="40" alt="Metasploit" title="Metasploit" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" alt="Burp Suite" title="Burp Suite" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/wappalyzer/5C5499" width="40" height="40" alt="Wappalyzer" title="Wappalyzer" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Nmap / Terminal" title="Nmap & Terminal Scanning" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40" height="40" alt="Cisco CCNA" title="Cisco CCNA" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" height="40" alt="Kali Linux" title="Kali Security Tools" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="Linux" title="Linux Systems" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/searxng/0088CC" width="40" height="40" alt="SpiderFoot" title="SpiderFoot OSINT" style="background: transparent; margin: 0 10px;" />
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash,regex,py,c,cpp&theme=dark" alt="Cybersecurity & Systems Core" />
+  </a>
 </div>
-
-<br/>
-
-<!-- Modern Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
 
 <br/>
 
 ### 💻 Languages, Databases & Frameworks
 
 <div align="center">
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" title="Python" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++" title="C++" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" alt="C" title="C" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash" title="Bash" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" title="JavaScript" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" height="40" alt="Node.js" title="Node.js" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5" title="HTML5" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" alt="CSS3" title="CSS3" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL" title="MySQL" style="background: transparent; margin: 0 8px;" />
-    <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" height="40" alt="SQLite" title="SQLite" style="background: transparent; margin: 0 8px;" />
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,bash,js,nodejs,html,css,tailwind,mysql,sqlite&theme=dark" alt="Languages, Databases & Frameworks" />
+  </a>
 </div>
-
-<br/>
-
-<!-- Modern Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
 
 <br/>
 
 ### 🖥️ Operating Systems
 
 <div align="center">
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" height="40" alt="Kali Linux" title="Kali Linux" style="background: transparent; margin: 0 12px;" />
-    <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="Ubuntu" title="Ubuntu" style="background: transparent; margin: 0 12px;" />
-    <img src="https://cdn.simpleicons.org/windows/0078D4" width="40" height="40" alt="Windows 11" title="Windows 11" style="background: transparent; margin: 0 12px;" />
-    <img src="https://cdn.simpleicons.org/apple/A2AAAD" width="40" height="40" alt="macOS" title="macOS Apple" style="background: transparent; margin: 0 12px;" />
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,apple&theme=dark" alt="Operating Systems" />
+  </a>
 </div>
-
-<br/>
-
-<!-- Modern Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
 
 <br/>
 
 ### 🧰 Tools, Workflow & Productivity
 
 <div align="center">
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" height="40" alt="VS Code" title="VS Code" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" title="Git" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub" title="GitHub" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/arduino/00878F" width="40" height="40" alt="Arduino" title="Arduino IDE" style="background: transparent; margin: 0 10px;" />
-    <img src="https://cdn.simpleicons.org/powershell/5391FE" width="40" height="40" alt="PowerShell" title="PowerShell" style="background: transparent; margin: 0 10px;" />
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/word.svg" width="40" height="40" alt="Microsoft Word" title="Microsoft Word" style="background: transparent; margin: 0 10px;" />
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/powerpoint.svg" width="40" height="40" alt="Microsoft PowerPoint" title="Microsoft PowerPoint" style="background: transparent; margin: 0 10px;" />
-  </p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github,arduino&theme=dark" alt="Tools & Workflow" style="vertical-align: middle;" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/word.svg" width="46" height="46" alt="Microsoft Word" title="Microsoft Word" style="vertical-align: middle;" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/powerpoint.svg" width="46" height="46" alt="Microsoft PowerPoint" title="Microsoft PowerPoint" style="vertical-align: middle;" />
 </div>
-
-<br/>
-
-<!-- Modern Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -133,20 +80,15 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sid214&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="GitHub Stats" />
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid214&theme=tokyonight" height="180" alt="GitHub Profile Summary" />
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid214&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="GitHub Streak" />
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://streak-stats.demolab.com/?user=Sid214&theme=tokyonight&ring=FF6600&fire=FF6600&currStreakNum=FF6600&sideNums=ffffff&hide_border=true&border_radius=10" height="180" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 </div>
-
-<br/>
-
-<!-- Modern Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -168,5 +110,5 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 <!-- Matching Dynamic Waving Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0a2540,100:0066cc&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,34,42&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
 </div>
