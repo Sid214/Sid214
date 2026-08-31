@@ -1,19 +1,19 @@
 <div align="center">
 
-  <!-- Dynamic Multi-Color Waving Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,14,24,35,46&height=230&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Securing%20Networks%20%E2%80%A2%20Analyzing%20Packets%20%E2%80%A2%20Automating%20Workflows&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Header" />
+  <!-- Dynamic Multi-Color Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,14,24,35,48&height=230&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Securing%20Networks%20%E2%80%A2%20Analyzing%20Packets%20%E2%80%A2%20Automating%20Workflows&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Banner" />
 
-  <!-- Interactive Terminal Typing Subtitle -->
+  <!-- Animated Typing Tagline -->
   <a href="https://github.com/Sid214">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Securing+Networks+%26+Investigating+Traffic;Vulnerability+Assessment+%26+Reconnaissance;Python+Automation+%26+Security+Scripting;Linux+Environments+%26+Defensive+Hardening" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1500&color=00D2FF&center=true&vCenter=true&width=620&lines=Securing+Networks+%E2%80%A2+Analyzing+Packets;Vulnerability+Assessment+%26+Reconnaissance;Network+Analysis+%26+Security+Frameworks;Continuous+Investigation+%26+System+Defense" alt="Typing Tagline" />
   </a>
 
 </div>
 
 <br/>
 
-<!-- Modern Animated Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,14,24,35,46&height=2&section=header" width="100%" />
+<!-- Modern Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,14,24,35,48&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -22,47 +22,46 @@
 <div align="justify" style="font-size: 15px; line-height: 1.8;">
 
 <p>
-Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technical investigator dedicated to deep packet inspection, network architecture analysis, and defensive security frameworks. I focus on understanding complex systems under the hood, mapping attack surfaces, and engineering streamlined automation workflows.
+Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast focused on network architecture analysis, ethical hacking exploration, and defensive security frameworks. I specialize in evaluating network traffic, identifying system vulnerabilities, and implementing robust defensive methodologies to protect modern computing environments.
 </p>
 
 <ul>
-  <li>🛡️ <b>Focus Areas:</b> Network Traffic Analysis, Vulnerability Research, Ethical Hacking & Defensive Hardening</li>
-  <li>💻 <b>Scripting & Tooling:</b> Developing custom workflow automations and tools in Python, C/C++, and Bash</li>
-  <li>🌐 <b>Environments:</b> Operating across Kali Linux, Ubuntu, Windows 11, and macOS</li>
+  <li>🛡️ <b>Core Focus:</b> Network Packet Analysis, Vulnerability Research & Security Posture Assessment</li>
+  <li>🔍 <b>Methodology:</b> Traffic inspection, surface mapping, and structured ethical hacking workflows</li>
+  <li>🌐 <b>Environments:</b> Working across Kali Linux, Ubuntu, Windows 11, and macOS</li>
 </ul>
-
-<!-- Interactive Typewriter Core Quote (10 Rotating Cybersecurity & Systems Quotes) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=1000000&color=00E5FF&center=true&vCenter=true&width=750&lines=%22Security+is+not+a+product%2C+but+a+continuous+process.%22+—+Bruce+Schneier;%22Understand+how+it+works%2C+find+where+it+breaks%2C+build+it+stronger.%22;%22In+a+world+full+of+vulnerabilities%2C+be+the+patch.%22;%22To+defeat+an+adversary%2C+you+must+understand+the+system.%22;%22Packets+don%27t+lie%2C+protocols+tell+the+truth.%22;%22Defense+in+depth+is+the+foundation+of+digital+resilience.%22;%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22;%22Simplicity+is+prerequisite+for+system+reliability.%22+—+Edsger+W.+Dijkstra;%22Root+access+is+granted+only+to+those+who+persist.%22;%22Continuous+learning+is+the+strongest+firewall.%22" alt="Core Principle" />
-</div>
 
 </div>
 
 <br/>
 
-<!-- Modern Animated Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,14,24,35,46&height=2&section=header" width="100%" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1500&color=00D2FF&center=true&vCenter=true&width=750&lines=%22Security+is+not+a+product%2C+but+a+continuous+process.%22;%22Visibility+without+control+is+just+a+spectator+sport.%22;%22Defenders+think+in+lists.+Attackers+think+in+graphs.%22;%22The+quieter+you+become%2C+the+more+you+are+able+to+hear.%22;%22Understand+how+it+works%2C+find+where+it+breaks%2C+build+it+stronger.%22;%22Privacy+is+a+fundamental+right%2C+not+an+afterthought.%22;%22Hardware+is+easy+to+break%2C+software+is+easy+to+fix%2C+firmware+is+both.%22;%22Encryption+works.+Properly+implemented+crypto+is+what+we+rely+on.%22;%22In+theory+there+is+no+difference+between+theory+and+practice.%22;%22There+are+only+two+types+of+systems%3A+those+audited%2C+and+those+to+be+audited.%22" alt="Typing Quotes" />
+</div>
+
+<br/>
+
+<!-- Modern Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,14,24,35,48&height=2&section=header" width="100%" />
 
 <br/>
 
 ### 🛡️ Cybersecurity & Core Systems
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,wireshark,bash,regex,py,c,cpp&theme=dark" alt="Cybersecurity Core" style="vertical-align: middle;" />
-  </a>
-  <br/><br/>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux Tux" title="Classic Linux Tux" style="margin: 0 8px; vertical-align: middle;" />
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" alt="Burp Suite" title="Burp Suite" style="margin: 0 8px; vertical-align: middle;" />
-    <img src="https://cdn.simpleicons.org/metasploit/1262AF" width="40" height="40" alt="Metasploit" title="Metasploit" style="margin: 0 8px; vertical-align: middle;" />
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Nmap Terminal" title="Nmap & CLI Terminal" style="margin: 0 8px; vertical-align: middle;" />
-    <img src="https://cdn.simpleicons.org/wappalyzer/5C5499" width="40" height="40" alt="Wappalyzer" title="Wappalyzer" style="margin: 0 8px; vertical-align: middle;" />
-    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40" height="40" alt="Cisco" title="Cisco Networking" style="margin: 0 8px; vertical-align: middle;" />
-    <img src="https://cdn.simpleicons.org/tryhackme/C11B1B" width="40" height="40" alt="TryHackMe" title="TryHackMe" style="margin: 0 8px; vertical-align: middle;" />
-    <img src="https://cdn.simpleicons.org/searxng/0088CC" width="40" height="40" alt="SpiderFoot / theHarvester" title="theHarvester & SpiderFoot OSINT" style="margin: 0 8px; vertical-align: middle;" />
-    <img src="https://cdn.simpleicons.org/tenable/002F6C" width="40" height="40" alt="Nessus" title="Tenable Nessus" style="margin: 0 8px; vertical-align: middle;" />
-    <img src="https://cdn.simpleicons.org/splunk/F05A28" width="40" height="40" alt="Splunk" title="Splunk SIEM" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux Tux" title="Linux (Tux)" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="42" height="42" alt="Burp Suite" title="Burp Suite" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/tryhackme/C11B1B" width="42" height="42" alt="Hydra" title="THC Hydra" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" height="42" alt="GNU Bash" title="GNU Bash" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/metasploit/1262AF" width="42" height="42" alt="Metasploit" title="Metasploit" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/wappalyzer/5C5499" width="42" height="42" alt="Wappalyzer" title="Wappalyzer" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" height="42" alt="Cisco" title="Cisco" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/tryhackme/C11B1B" width="42" height="42" alt="TryHackMe" title="TryHackMe" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/searxng/0088CC" width="42" height="42" alt="theHarvester" title="theHarvester" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="42" height="42" alt="Nessus" title="Nessus" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/splunk/FF5A00" width="42" height="42" alt="Splunk" title="Splunk" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/target/CC0000" width="42" height="42" alt="SpiderFoot" title="SpiderFoot" style="margin: 0 8px; vertical-align: middle;" />
   </p>
 </div>
 
@@ -72,10 +71,8 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technical investi
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,bash,js,nodejs,html,css,tailwind,mysql,sqlite&theme=dark" alt="Languages, Databases & Frameworks" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,bash,js,nodejs,html,css,tailwind,mysql,sqlite,oracle&theme=dark" alt="Languages, Databases & Frameworks" />
   </a>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="46" height="46" alt="Oracle Database" title="Oracle Database" style="vertical-align: middle;" />
 </div>
 
 <br/>
@@ -84,7 +81,7 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technical investi
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,apple,android&theme=dark" alt="Operating Systems" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows,android,apple,kali&theme=dark" alt="Operating Systems" />
   </a>
 </div>
 
@@ -97,30 +94,23 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technical investi
     <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github,arduino&theme=dark" alt="Tools & Workflow" style="vertical-align: middle;" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vmware/607078" width="44" height="44" alt="VMware" title="VMware Workstation" style="vertical-align: middle;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/google/4285F4" width="44" height="44" alt="Google Anti-Gravity" title="Google Anti-Gravity" style="vertical-align: middle;" />
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="46" height="46" alt="VMware Workstation Pro" title="VMware Workstation Pro" style="vertical-align: middle;" />
 </div>
-
-<br/>
-
-<!-- Modern Animated Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,14,24,35,46&height=2&section=header" width="100%" />
 
 <br/>
 
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid214&theme=tokyonight" width="100%" style="max-width: 485px; border-radius: 10px; margin-bottom: 16px;" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid214&theme=tokyonight" width="100%" style="max-width: 485px; margin-bottom: 15px;" alt="GitHub Profile Details" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Sid214&theme=tokyonight&ring=FFD700&fire=FF6600&currStreakNum=FFD700&currStreakLabel=FF6600&sideNums=ffffff&sideLabels=00D2FF&hide_border=true&border_radius=10" width="100%" style="max-width: 485px;" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sid214&theme=tokyonight&ring=FF6600&fire=FFB703&currStreakNum=FF6600&currStreakLabel=FFB703&sideNums=00D2FF&sideLabels=ffffff&hide_border=true&border_radius=10" width="100%" style="max-width: 485px;" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- Modern Animated Gradient Accent Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,14,24,35,46&height=2&section=header" width="100%" />
+<!-- Modern Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,14,24,35,48&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -140,7 +130,7 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technical investi
 
 <br/>
 
-<!-- Matching Multi-Color Dynamic Waving Footer Banner -->
+<!-- Matching Dynamic Waving Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,14,24,35,46&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,14,24,35,48&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
 </div>
