@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner (Guaranteed 100% Load & Name Visibility) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0d2040,100:0052cc&height=240&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Enthusiast%20%7C%20Network%20Analysis%20%7C%20Systems%20%26%20Scripting&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Header" />
+  <!-- Dynamic Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0a2540,100:0066cc&height=240&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Enthusiast%20%7C%20Network%20Analysis%20%7C%20Scripting&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Header" />
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/Sid214">
@@ -10,11 +10,16 @@
 
 </div>
 
----
+<br/>
+
+<!-- Modern Gradient Accent Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
+
+<br/>
 
 ### 🌟 About Me
 
-<div align="justify" style="font-size: 15px; line-height: 1.7;">
+<div align="justify" style="font-size: 15px; line-height: 1.8;">
 
 <p>
 Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist passionate about dissecting network protocols, identifying system vulnerabilities, and engineering custom automation scripts to investigate and defend modern infrastructure.
@@ -29,97 +34,132 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 </div>
 
----
+<br/>
+
+<!-- Modern Gradient Accent Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
+
+<br/>
 
 ### 🛡️ Cybersecurity & Reconnaissance
 
 <div align="center">
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wireshark.svg" width="40" height="40" alt="Wireshark" title="Wireshark" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/metasploit.svg" width="40" height="40" alt="Metasploit" title="Metasploit" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/burpsuite.svg" width="40" height="40" alt="Burp Suite" title="Burp Suite" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wappalyzer.svg" width="40" height="40" alt="Wappalyzer" title="Wappalyzer" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnubash.svg" width="40" height="40" alt="Nmap / Terminal" title="Nmap & Terminal Scanning" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tryhackme.svg" width="40" height="40" alt="Hydra / Security" title="Password Auditing & Exploits" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cisco.svg" width="40" height="40" alt="Cisco CCNA" title="Cisco CCNA" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" width="40" height="40" alt="Kali Linux" title="Kali Security Tools" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/searxng.svg" width="40" height="40" alt="SpiderFoot" title="SpiderFoot OSINT" style="background: transparent; margin: 0 10px;" />
-</p>
-
-</div>
-
----
-
-### 💻 Languages, Databases & Frameworks
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,bash,js,nodejs,html,css,tailwind,mysql,sqlite&theme=dark" alt="Languages, Databases & Frameworks" />
-</a>
-
-</div>
-
----
-
-### 🖥️ Operating Systems
-
-<div align="center">
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" width="40" height="40" alt="Kali Linux" title="Kali Linux" style="background: transparent; margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ubuntu.svg" width="40" height="40" alt="Ubuntu" title="Ubuntu" style="background: transparent; margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/windows.svg" width="40" height="40" alt="Windows 11" title="Windows 11" style="background: transparent; margin: 0 12px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/apple.svg" width="40" height="40" alt="macOS" title="macOS Apple" style="background: transparent; margin: 0 12px;" />
-</p>
-
-</div>
-
----
-
-### 🧰 Tools, Workflow & Productivity
-
-<div align="center">
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" width="40" height="40" alt="VS Code" title="VS Code" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" width="40" height="40" alt="Git" title="Git" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="40" height="40" alt="GitHub" title="GitHub" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/arduino.svg" width="40" height="40" alt="Arduino" title="Arduino IDE" style="background: transparent; margin: 0 10px;" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powershell.svg" width="40" height="40" alt="PowerShell" title="PowerShell" style="background: transparent; margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/word.svg" width="40" height="40" alt="Microsoft Word" title="Microsoft Word" style="background: transparent; margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/powerpoint.svg" width="40" height="40" alt="Microsoft PowerPoint" title="Microsoft PowerPoint" style="background: transparent; margin: 0 10px;" />
-</p>
-
-</div>
-
----
-
-### 📊 GitHub Activity & Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid214&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="40" height="40" alt="Wireshark" title="Wireshark" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/metasploit/1262AF" width="40" height="40" alt="Metasploit" title="Metasploit" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" alt="Burp Suite" title="Burp Suite" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/wappalyzer/5C5499" width="40" height="40" alt="Wappalyzer" title="Wappalyzer" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Nmap / Terminal" title="Nmap & Terminal Scanning" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40" height="40" alt="Cisco CCNA" title="Cisco CCNA" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" height="40" alt="Kali Linux" title="Kali Security Tools" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="Linux" title="Linux Systems" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/searxng/0088CC" width="40" height="40" alt="SpiderFoot" title="SpiderFoot OSINT" style="background: transparent; margin: 0 10px;" />
+  </p>
 </div>
 
 <br/>
 
+<!-- Modern Gradient Accent Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
+
+<br/>
+
+### 💻 Languages, Databases & Frameworks
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sid214&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python" title="Python" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++" title="C++" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" alt="C" title="C" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash" title="Bash" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript" title="JavaScript" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="40" height="40" alt="Node.js" title="Node.js" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5" title="HTML5" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" alt="CSS3" title="CSS3" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL" title="MySQL" style="background: transparent; margin: 0 8px;" />
+    <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" height="40" alt="SQLite" title="SQLite" style="background: transparent; margin: 0 8px;" />
+  </p>
 </div>
 
----
+<br/>
+
+<!-- Modern Gradient Accent Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
+
+<br/>
+
+### 🖥️ Operating Systems
+
+<div align="center">
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40" height="40" alt="Kali Linux" title="Kali Linux" style="background: transparent; margin: 0 12px;" />
+    <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="Ubuntu" title="Ubuntu" style="background: transparent; margin: 0 12px;" />
+    <img src="https://cdn.simpleicons.org/windows/0078D4" width="40" height="40" alt="Windows 11" title="Windows 11" style="background: transparent; margin: 0 12px;" />
+    <img src="https://cdn.simpleicons.org/apple/A2AAAD" width="40" height="40" alt="macOS" title="macOS Apple" style="background: transparent; margin: 0 12px;" />
+  </p>
+</div>
+
+<br/>
+
+<!-- Modern Gradient Accent Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
+
+<br/>
+
+### 🧰 Tools, Workflow & Productivity
+
+<div align="center">
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" height="40" alt="VS Code" title="VS Code" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git" title="Git" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub" title="GitHub" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/arduino/00878F" width="40" height="40" alt="Arduino" title="Arduino IDE" style="background: transparent; margin: 0 10px;" />
+    <img src="https://cdn.simpleicons.org/powershell/5391FE" width="40" height="40" alt="PowerShell" title="PowerShell" style="background: transparent; margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/word.svg" width="40" height="40" alt="Microsoft Word" title="Microsoft Word" style="background: transparent; margin: 0 10px;" />
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/powerpoint.svg" width="40" height="40" alt="Microsoft PowerPoint" title="Microsoft PowerPoint" style="background: transparent; margin: 0 10px;" />
+  </p>
+</div>
+
+<br/>
+
+<!-- Modern Gradient Accent Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
+
+<br/>
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sid214&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid214&theme=tokyonight&hide_border=true&border_radius=10" height="175" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Modern Gradient Accent Line -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001122,50:0a2540,100:0066cc&height=2&section=header" width="100%" />
+
+<br/>
 
 ### 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Sid214" target="_blank" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=github" width="54" height="54" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/its-siddhesh-patil" target="_blank" title="LinkedIn">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="54" height="54" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" />
 </a>
 
 </div>
@@ -128,5 +168,5 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 <!-- Matching Dynamic Waving Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0d2040,100:0052cc&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,50:0a2540,100:0066cc&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
 </div>
