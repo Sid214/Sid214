@@ -120,8 +120,8 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast focused on network ar
 <div align="center">
 
 <a href="https://github.com/Sid214" target="_blank" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=github" width="52" height="52"" />
-</a> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="52" height="52"/>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/its-siddhesh-patil" target="_blank" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" />
 </a>
