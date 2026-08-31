@@ -1,25 +1,20 @@
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,30,45&height=250&section=header&text=Siddhesh%20Patil&fontSize=44&fontColor=ffffff&fontAlignY=30&desc=Cybersecurity%20Enthusiast%20•%20Network%20Analysis%20•%20Systems%20%26%20Scripting&descFontSize=16&descAlignY=52&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,15,30,45&height=240&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Cybersecurity%20Enthusiast%20%7C%20Network%20Analysis%20%7C%20Systems%20%26%20Scripting&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Header" />
 
-  <!-- Animated Typing Tagline -->
+  <!-- Animated Typing SVG -->
   <a href="https://github.com/Sid214">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Analysis;Vulnerability+Assessment+%26+Reconnaissance;Python+Automation+%26+Security+Scripting;Linux+Environments+%26+System+Hardening;Always+Curious%2C+Always+Investigating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Analysis;Vulnerability+Assessment+%26+Reconnaissance;Python+Automation+%26+Security+Scripting;Linux+Environments+%26+System+Hardening;Always+Curious%2C+Always+Investigating" alt="Typing Tagline" />
   </a>
 
 </div>
 
-<br/>
-
-<!-- Modern Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,15,30,45&height=3&section=header" width="100%" />
-
-<br/>
+---
 
 ### 🌟 About Me
 
-<div align="justify" style="font-size: 16px; line-height: 1.7;">
+<div align="justify" style="font-size: 15px; line-height: 1.7;">
 
 <p>
 Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist passionate about dissecting network protocols, identifying system vulnerabilities, and engineering custom automation scripts to investigate and defend modern infrastructure.
@@ -34,41 +29,39 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 </div>
 
-<br/>
-
-<!-- Modern Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,15,30,45&height=3&section=header" width="100%" />
-
-<br/>
+---
 
 ### 🛡️ Cybersecurity & Reconnaissance
 
 <div align="center">
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kali,linux,wireshark,regex,bash&theme=dark" alt="Cybersecurity Core" />
+</a>
+
+<br/><br/>
+
 <p align="center">
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="52" height="52" alt="Wireshark" title="Wireshark" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nmap/002D62" width="52" height="52" alt="Nmap" title="Nmap" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/metasploit/1262AF" width="52" height="52" alt="Metasploit" title="Metasploit" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="52" height="52" alt="Burp Suite" title="Burp Suite" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wappalyzer/5C5499" width="52" height="52" alt="Wappalyzer" title="Wappalyzer" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="52" height="52" alt="Cisco CCNA" title="Cisco CCNA" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="52" height="52" alt="Kali Linux Tools" title="Kali Security Tools" />
+  <img src="https://img.shields.io/badge/Nmap_Scanning-002D62?style=for-the-badge&logo=target&logoColor=white" height="34" alt="Nmap" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Metasploit-1262AF?style=for-the-badge&logo=metasploit&logoColor=white" height="34" alt="Metasploit" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="34" alt="Burp Suite" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/THC_Hydra-D32F2F?style=for-the-badge&logo=gnubash&logoColor=white" height="34" alt="Hydra" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/SpiderFoot_OSINT-FF6F00?style=for-the-badge&logo=searxng&logoColor=white" height="34" alt="SpiderFoot" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Enum4linux-2A2A2A?style=for-the-badge&logo=linux&logoColor=white" height="34" alt="Enum4linux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Wappalyzer-5C5499?style=for-the-badge&logo=wappalyzer&logoColor=white" height="34" alt="Wappalyzer" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="34" alt="CCNA" />
 </p>
 
 </div>
 
-<br/>
-
-<!-- Modern Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,15,30,45&height=3&section=header" width="100%" />
-
-<br/>
+---
 
 ### 💻 Languages, Databases & Frameworks
 
@@ -80,12 +73,7 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 </div>
 
-<br/>
-
-<!-- Modern Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,15,30,45&height=3&section=header" width="100%" />
-
-<br/>
+---
 
 ### 🖥️ Operating Systems
 
@@ -97,12 +85,7 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 </div>
 
-<br/>
-
-<!-- Modern Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,15,30,45&height=3&section=header" width="100%" />
-
-<br/>
+---
 
 ### 🧰 Tools, Workflow & Productivity
 
@@ -115,23 +98,20 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 <br/><br/>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="46" height="46" alt="Microsoft Word" title="Microsoft Word" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/D24726" width="46" height="46" alt="Microsoft PowerPoint" title="Microsoft PowerPoint" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoft365/EA3E23" width="46" height="46" alt="Microsoft Publisher / Office Suite" title="Microsoft Publisher / Office 365" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" height="34" alt="Microsoft Word" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" height="34" alt="Microsoft PowerPoint" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft_Publisher-077568?style=for-the-badge&logo=microsoft&logoColor=white" height="34" alt="Microsoft Publisher" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Office_365-EA3E23?style=for-the-badge&logo=microsoft365&logoColor=white" height="34" alt="Office 365" />
 </p>
 
 </div>
 
-<br/>
+---
 
-<!-- Modern Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,15,30,45&height=3&section=header" width="100%" />
-
-<br/>
-
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sid214&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
@@ -139,10 +119,11 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 <br/>
 
-<!-- Modern Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,15,30,45&height=3&section=header" width="100%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sid214&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+</div>
 
-<br/>
+---
 
 ### 🤝 Connect With Me
 
