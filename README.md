@@ -1,14 +1,19 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner (Ocean Neon Gradient) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,34,42&height=230&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Enthusiast%20%E2%80%A2%20Network%20Analysis%20%E2%80%A2%20Scripting&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Banner" />
+  <!-- Dynamic Waving Header Banner (Auto-cycling Palette) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Securing%20systems%20%E2%80%A2%20Analyzing%20packets%20%E2%80%A2%20Automating%20tasks&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Banner" />
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/Sid214">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Cybersecurity+%26+Network+Analysis;Vulnerability+Assessment+%26+Reconnaissance;Python+Automation+%26+Security+Scripting;Linux+Environments+%26+System+Hardening;Always+Curious%2C+Always+Investigating" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Securing+Systems+%26+Investigating+Networks;Vulnerability+Assessment+%26+Reconnaissance;Python+Automation+%26+Security+Scripting;Linux+Environments+%26+System+Hardening;Always+Curious%2C+Always+Investigating" alt="Typing Tagline" />
   </a>
 
 </div>
+
+<br/>
+
+<!-- Modern Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -17,7 +22,7 @@
 <div align="justify" style="font-size: 15px; line-height: 1.8;">
 
 <p>
-Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist passionate about dissecting network protocols, identifying system vulnerabilities, and engineering custom automation scripts to investigate and defend modern infrastructure.
+Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist dedicated to dissecting network protocols, identifying system vulnerabilities, and engineering custom automation scripts to investigate and defend modern infrastructure.
 </p>
 
 <ul>
@@ -31,12 +36,30 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 <br/>
 
+<!-- Modern Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=header" width="100%" />
+
+<br/>
+
 ### 🛡️ Cybersecurity & Core Systems
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,bash,regex,py,c,cpp&theme=dark" alt="Cybersecurity & Systems Core" />
+    <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,wireshark,bash,regex,py,c,cpp&theme=dark" alt="Cybersecurity Core" />
   </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="40" height="40" alt="Burp Suite" title="Burp Suite" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/metasploit/1262AF" width="40" height="40" alt="Metasploit" title="Metasploit" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Nmap Terminal" title="Nmap Terminal" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/wappalyzer/5C5499" width="40" height="40" alt="Wappalyzer" title="Wappalyzer" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="40" height="40" alt="Cisco CCNA" title="Cisco CCNA" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/searxng/0088CC" width="40" height="40" alt="SpiderFoot" title="SpiderFoot OSINT" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/tryhackme/C11B1B" width="40" height="40" alt="TryHackMe" title="Security Research" style="margin: 0 8px; vertical-align: middle;" />
+    <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="40" height="40" alt="Hack The Box" title="Hack The Box" style="margin: 0 8px; vertical-align: middle;" />
+  </p>
 </div>
 
 <br/>
@@ -61,16 +84,12 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 <br/>
 
-### 🧰 Tools, Workflow & Productivity
+### 🧰 Tools & Workflow
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github,arduino&theme=dark" alt="Tools & Workflow" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github,arduino&theme=dark" alt="Tools & Workflow" />
   </a>
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/word.svg" width="46" height="46" alt="Microsoft Word" title="Microsoft Word" style="vertical-align: middle;" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/powerpoint.svg" width="46" height="46" alt="Microsoft PowerPoint" title="Microsoft PowerPoint" style="vertical-align: middle;" />
 </div>
 
 <br/>
@@ -78,17 +97,15 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid214&theme=tokyonight" height="180" alt="GitHub Profile Summary" />
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://streak-stats.demolab.com/?user=Sid214&theme=tokyonight&ring=FF6600&fire=FF6600&currStreakNum=FF6600&sideNums=ffffff&hide_border=true&border_radius=10" height="180" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid214&theme=tokyonight" width="100%" style="max-width: 480px; margin-bottom: 15px;" alt="GitHub Profile Summary" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Sid214&theme=tokyonight&ring=00D2FF&fire=FF6600&currStreakNum=00D2FF&sideNums=ffffff&hide_border=true&border_radius=10" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
 </div>
+
+<br/>
+
+<!-- Modern Animated Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=header" width="100%" />
 
 <br/>
 
@@ -110,5 +127,5 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast and technologist pass
 
 <!-- Matching Dynamic Waving Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,34,42&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
 </div>
