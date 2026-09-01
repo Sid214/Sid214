@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner (Vivid Multi-Color Gradient Wave Engine) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:2d006b,25:0f172a,50:0052cc,75:00b4d8,100:00f5a0&height=230&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Security%20%E2%80%A2%20Analysis%20%E2%80%A2%20Automation&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Banner" />
+  <!-- Dynamic Waving Header Banner (Bright High-Contrast Animated Gradient) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=230&section=header&text=Siddhesh%20Patil&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Security%20%E2%80%A2%20Analysis%20%E2%80%A2%20Automation&descFontSize=16&descAlignY=58&descAlign=50&animation=waving" width="100%" alt="Siddhesh Patil Header" />
 
-  <!-- Animated Typing Tagline (Reverted to Electric Neon Cyan) -->
+  <!-- Animated Typing Tagline -->
   <a href="https://github.com/Sid214">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Security+%E2%80%A2+Analysis+%E2%80%A2+Automation;Vulnerability+Assessment+%26+Reconnaissance;Network+Analysis+%26+Security+Frameworks;Continuous+Investigation+%26+System+Defense" alt="Typing Tagline" />
   </a>
@@ -12,12 +12,12 @@
 
 <br/>
 
-<!-- Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:2d006b,25:0f172a,50:0052cc,75:00b4d8,100:00f5a0&height=2&section=header" width="100%" />
+<!-- Modern Cyan-Purple Glowing Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,50,100&height=2&section=header" width="100%" />
 
 <br/>
 
-### 🌟 About Me
+## 🌟 About Me
 
 <div align="justify" style="font-size: 15px; line-height: 1.8;">
 
@@ -36,30 +36,27 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast focused on network ar
 
 <br/>
 
-<!-- Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:2d006b,25:0f172a,50:0052cc,75:00b4d8,100:00f5a0&height=2&section=header" width="100%" />
+<!-- Modern Cyan-Purple Glowing Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,50,100&height=2&section=header" width="100%" />
 
 <br/>
 
-### 🛡️ Cybersecurity & Core Systems
+## 🛡️ Cybersecurity & Core Systems
 
 <div align="center">
   <p align="center">
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" width="42" height="42" alt="Linux Tux" title="Linux (Tux)" style="margin: 0 8px; vertical-align: middle;" /></a>
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="42" height="42" alt="Burp Suite" title="Burp Suite" style="margin: 0 8px; vertical-align: middle; background: transparent;" />
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="42" height="42" alt="GNU Bash / Hydra" title="GNU Bash" style="margin: 0 8px; vertical-align: middle; background: transparent;" />
-    <img src="https://cdn.simpleicons.org/metasploit/1262AF" width="42" height="42" alt="Metasploit" title="Metasploit" style="margin: 0 8px; padding: 2px; vertical-align: middle; background: transparent;" />
-    <img src="https://cdn.simpleicons.org/wappalyzer/5C5499" width="42" height="42" alt="Wappalyzer" title="Wappalyzer" style="margin: 0 8px; vertical-align: middle; background: transparent;" />
-    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" height="42" alt="Cisco" title="Cisco Networking" style="margin: 0 8px; vertical-align: middle; background: transparent;" />
-    <img src="https://cdn.simpleicons.org/tryhackme/FFFFFF" width="42" height="42" alt="TryHackMe" title="TryHackMe" style="margin: 0 8px; vertical-align: middle; background: transparent;" />
-    <img src="https://cdn.simpleicons.org/splunk/FF5A00" width="42" height="42" alt="Splunk" title="Splunk SIEM" style="margin: 0 8px; vertical-align: middle; background: transparent;" />
-    <img src="https://cdn.simpleicons.org/securityscorecard/1572B6" width="42" height="42" alt="Security Posture" title="Security & Vulnerability Assessment" style="margin: 0 8px; vertical-align: middle; background: transparent;" />
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" width="44" height="44" alt="Linux Tux" title="Linux (Tux)" style="margin: 0 6px; vertical-align: middle;" /></a>
+    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="44" height="44" alt="Burp Suite" title="Burp Suite" style="margin: 0 6px; vertical-align: middle; background: transparent; border-radius: 8px;" />
+    <img src="https://cdn.simpleicons.org/metasploit/1262AF" width="44" height="44" alt="Metasploit" title="Metasploit" style="margin: 0 6px; padding: 3px; vertical-align: middle; background: transparent; border-radius: 8px;" />
+    <img src="https://cdn.simpleicons.org/wappalyzer/5C5499" width="44" height="44" alt="Wappalyzer" title="Wappalyzer" style="margin: 0 6px; vertical-align: middle; background: transparent;" />
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="44" height="44" alt="Cisco" title="Cisco Networking" style="margin: 0 6px; vertical-align: middle; background: transparent;" />
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/splunk.png" width="44" height="44" alt="Splunk" title="Splunk SIEM" style="margin: 0 6px; vertical-align: middle; background: transparent;" />
   </p>
 </div>
 
 <br/>
 
-### 💻 Languages, Databases & Frameworks
+## 💻 Languages, Databases & Frameworks
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -69,59 +66,63 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast focused on network ar
 
 <br/>
 
-### 🖥️ Operating Systems
+## 🖥️ Operating Systems
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,apple,android&theme=dark" alt="Operating Systems: Kali Linux, Ubuntu, Windows 11, Apple, Android" />
+    <img src="https://skillicons.dev/icons?i=kali,ubuntu,windows,apple,android&theme=dark" alt="Operating Systems" />
   </a>
 </div>
 
 <br/>
 
-### 🧰 Tools & Workflows
+## 🧰 Tools & Workflows
 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github,arduino&theme=dark" alt="Tools & Workflow" style="vertical-align: middle;" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vmware/607078" width="46" height="46" alt="VMware Workstation Pro" title="VMware Workstation Pro" style="vertical-align: middle;" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" width="46" height="46" alt="VirtualBox" title="Oracle VirtualBox" style="vertical-align: middle;" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vmware-workstation.png" width="44" height="44" alt="VMware Workstation Pro" title="VMware Workstation Pro" style="vertical-align: middle; margin: 0 4px;" />
+  &nbsp;
+  <img src="https://img.icons8.com/?size=100&id=R8RW44pV9UP4&format=png&color=000000" width="44" height="44" alt="VirtualBox" title="Oracle VirtualBox" style="vertical-align: middle; margin: 0 4px;" />
 </div>
 
 <br/>
 
-<!-- Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:2d006b,25:0f172a,50:0052cc,75:00b4d8,100:00f5a0&height=2&section=header" width="100%" />
+<!-- Modern Cyan-Purple Glowing Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,50,100&height=2&section=header" width="100%" />
 
 <br/>
 
-### 📊 GitHub Activity & Metrics
+## 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid214&theme=tokyonight" width="100%" style="max-width: 485px; margin-bottom: 15px; border-radius: 10px;" alt="GitHub Profile Details" />
+  <!-- GitHub Profile Summary (Theme 1: Lime & Dark Palette) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sid214&theme=github_dark" width="100%" style="max-width: 490px; margin-bottom: 15px; border-radius: 10px;" alt="GitHub Profile Summary" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=Sid214&theme=tokyonight&ring=FF6600&fire=FFB703&currStreakNum=FF6600&currStreakLabel=FFB703&sideNums=00F5A0&sideLabels=ffffff&hide_border=true&border_radius=10" width="100%" style="max-width: 485px; border-radius: 10px;" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Sid214&style=for-the-badge&color=00f5a0&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- Streak Stats (Theme 2: Dark Background with Vibrant Orange Flame Ring) -->
+  <img src="https://streak-stats.demolab.com/?user=Sid214&theme=dark&ring=FE8535&fire=FE8535&currStreakNum=FE8535&currStreakLabel=FE8535&sideNums=FFFFFF&sideLabels=FFFFFF&hide_border=true&border_radius=10" width="100%" style="max-width: 490px; margin-bottom: 15px; border-radius: 10px;" alt="GitHub Streak" />
+  <br/>
+  <!-- Most Used Languages (Multi-color bar) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sid214&theme=dark" width="100%" style="max-width: 490px; border-radius: 10px;" alt="Most Used Languages" />
 </div>
 
 <br/>
 
-<!-- Animated Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:2d006b,25:0f172a,50:0052cc,75:00b4d8,100:00f5a0&height=2&section=header" width="100%" />
+<!-- Modern Cyan-Purple Glowing Animated Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,20,50,100&height=2&section=header" width="100%" />
 
 <br/>
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/Sid214" target="_blank" title="GitHub">
-  <img src="https://skillicons.dev/icons?i=github" width="52" height="52"/>
-</a>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/its-siddhesh-patil" target="_blank" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="52" alt="LinkedIn" />
 </a>
@@ -132,5 +133,5 @@ Hey! I'm <b>Siddhesh Patil</b>, a cybersecurity enthusiast focused on network ar
 
 <!-- Matching Dynamic Waving Footer Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:2d006b,25:0f172a,50:0052cc,75:00b4d8,100:00f5a0&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=120&section=footer&animation=waving" width="100%" alt="Footer Banner" />
 </div>
